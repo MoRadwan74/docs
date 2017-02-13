@@ -1,0 +1,25 @@
+site_name: Cartoview
+site_url: http://www.cartoview.org
+repo_url: https://github.com/cartologic/cartoview.git
+edit_uri: /docs/
+repo_name: Github
+site_author: Cartologic
+copyright: Cartologic
+theme: readthedocs
+pages:
+    - About Cartoview: about.md
+    - Installation Guide: 'Installation/Installation.md'
+    - Tutorials: 
+        - For Users:
+            - 'Introduction': 'users.md'
+            - 'Cartoview Application Manager': 'manager.md'
+            - 'GeoNode Portal':
+                - 'Index': 'portal.md'
+                - 'Geonode Introduction': 'geonode-intro.md'
+                - 'Accounts and users': 'accounts.md'
+                - 'Managing Layers': 'managing.md'
+                - 'Managing Maps': 'maps.md'
+    - Resources: resources.md
+    - External References : external.md
+markdown_extensions:
+    - smarty 
