@@ -7,7 +7,7 @@ site_author: Cartologic
 copyright: Cartologic
 theme: readthedocs
 pages:
-    - About Cartoview: about.md
+    - About Cartoview: index.md
     - Installation Guide: 'Installation/Installation.md'
     - Tutorials: 
         - For Users:
