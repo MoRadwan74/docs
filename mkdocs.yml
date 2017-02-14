@@ -13,12 +13,7 @@ pages:
         - For Users:
             - 'Introduction': 'users.md'
             - 'Cartoview Application Manager': 'manager.md'
-            - 'GeoNode Portal':
-                - 'Index': 'portal.md'
-                - 'Geonode Introduction': 'geonode-intro.md'
-                - 'Accounts and users': 'accounts.md'
-                - 'Managing Layers': 'managing.md'
-                - 'Managing Maps': 'maps.md'
+        - For Developers: 'developers.md'
     - Resources: resources.md
     - External References : external.md
 markdown_extensions:

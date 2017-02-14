@@ -10,9 +10,3 @@ This workshop will guide you on how to use the GeoNode and Cartoview platform, g
 	- [Cartoview Apps Installation](manager.md#cartoview--apps-installation)
 	- [Create new App Instance](manager.md#create-new-app-instance)
 	- [Explore App Instances](manager.md#explore-app-instances)
-- [GeoNode Portal](portal.md)
-	- [Geonode Introduction](geonode-intro.md)
-	- [Accounts and users](accounts.md)
-	- [Managing Layers](managing.md)
-	- [Managing Maps](maps.md)
-- [Integration with other third party applications]
